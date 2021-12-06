@@ -20,4 +20,4 @@ const generateNumbers = () => {
   oddContainer.innerHTML += odd;
 };
 
-document.addEventListener('click', generateNumbers);
+button.addEventListener('click', generateNumbers);
